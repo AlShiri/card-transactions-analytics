@@ -15,6 +15,9 @@ The dataset is synthetic but realistic and represents typical credit card transa
 - Cards
 - Customers
 
+Dataset is too large for GitHub and must be downloaded manually from Kaggle:
+Credit Card Transactions Dataset by priyamchoksi
+
 ## Tools
 - Power BI (data modeling, DAX, dashboards)
 - Python (pandas, exploratory data analysis)
