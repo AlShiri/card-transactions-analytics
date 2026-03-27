@@ -1,1 +1,4 @@
-data/raw/credit_card_transactions.csv
+data/raw/
+data/clean/
+
+!data/clean/.gitkeep
