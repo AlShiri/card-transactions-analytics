@@ -14,6 +14,7 @@ The analysis was performed using Python (EDA) and visualized in Power BI.
 ---
 ## 📁 Project Structure
 
+```
 card-transactions-analytics/
 │
 ├── assets/
@@ -33,6 +34,7 @@ card-transactions-analytics/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
