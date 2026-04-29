@@ -12,16 +12,17 @@ The analysis was performed using Python (EDA) and visualized in Power BI.
 - Git & GitHub
 
 ---
-
 ## 📁 Project Structure
 
 card-transactions-analytics/
-
+│
+├── assets/
+│ └── dashboard.png
 │
 ├── data/
 │ ├── raw/ # original dataset (not uploaded)
 │ ├── clean/ # cleaned dataset (not uploaded)
-│ └── sample/ # sample dataset for Power BI
+│ └── sample/
 │ └── transactions_sample.csv
 │
 ├── notebooks/
@@ -30,6 +31,7 @@ card-transactions-analytics/
 ├── powerbi/
 │ └── fraud_dashboard.pbix
 │
+├── .gitignore
 └── README.md
 
 ---
@@ -81,6 +83,12 @@ card-transactions-analytics/
 ### ⏱ Behavioral Patterns
 - Transaction activity increases during **daytime hours**
 - Peak activity observed in **evenings and weekends**
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
 
 ---
 
